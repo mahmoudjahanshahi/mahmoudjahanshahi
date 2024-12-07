@@ -7,4 +7,4 @@ I am an experienced **Data Scientist** with a strong background in **mining open
 - 💡 Passionate about leveraging data to uncover insights and develop innovative solutions across industries.
 - 🌟 Actively seeking opportunities as a **Data Scientist** to apply my expertise in solving complex, data-driven problems.
 
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/mahmoudjahanshahi/) | [Webpage](https://mahmoudjahanshahi.github.io/utk_webpage/)
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/mahmoudjahanshahi/) | [Webpage](https://mahmoudjahanshahi.com/)
